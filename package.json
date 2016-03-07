@@ -1,0 +1,53 @@
+{
+  "name": "node-login",
+  "version": "1.0.0",
+  "description": "node login system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojrammurthy/Node-Login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manojrammurthy/Node-Login/issues"
+  },
+  "homepage": "https://github.com/manojrammurthy/Node-Login#readme",
+  "dependencies": {
+    
+    "bcrypt-nodejs": "latest",
+    "body-parser": "^1.14.2",
+    "bootstrap": "^3.3.6",
+    "browserify": "^13.0.0",
+    "connect-flash": "~0.1.1",
+    "cookie-parser": "~1.0.0",
+    "ejs": "~0.8.5",
+    "express": "^4.13.4",
+    "express-session": "~1.0.0",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.3.1",
+    "gulp-open": "^1.0.0",
+    "history": "^1.17.0",
+    "jade": "^1.11.0",
+    "jquery": "^2.2.0",
+    "method-override": "~1.0.0",
+    "mongoose": "~3.8.1",
+    "morgan": "~1.0.0",
+    "passport": "~0.1.17",
+    "passport-local": "~0.1.6",
+    "react": "^0.14.7",
+    "react-bootstrap": "^0.28.2",
+    "react-dom": "^0.14.7",
+    "react-router": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "react-tools": "^0.13.3"
+  }
+}
